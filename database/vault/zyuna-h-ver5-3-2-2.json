@@ -1,0 +1,15 @@
+{
+  "format": "atelier-vault/1",
+  "designId": "zyuna-h-ver5-3-2-2",
+  "payloadFormat": "atelier-design/1",
+  "kdf": {
+    "algorithm": "PBKDF2-HMAC-SHA256",
+    "iterations": 600000,
+    "salt": "BkC8D9k/3Kh7i+r34fWpkg=="
+  },
+  "cipher": {
+    "algorithm": "AES-256-GCM",
+    "iv": "oGX4kTmN/MS99ebW"
+  },
+  "ciphertext": "q5xknNKlYjPm+2Fom2SESz/JhtEcvvtwaDVQ7FuunlHRfxAzYFhj5WpEBvszkgo0/yPMBZwr5ZjO/2Wucn08mB7dqE3UT3fMUiEgRWxcUteieiDXRcJBlbPgQnLoY3xH9XQEQzrlMe/+d4ZRs6IvOnDsnDBF7MAuhgVKLPIbkjWZdgrQS3Wc7tOZkirZel/dH5211+2QljZMIrfPwmIzA+emfc4ivrtab0JihnymcjACcw6eUnIbfIZY+/LkSU2Jzdran3gVFWG4APND8aPp8wJn1BDm3mRuZgKe1jrbMf9NRxH6Sq7FTDI/nbAEeCbfazmQ82s5ajY5Y7deGLcvZAf8NkUZACXcmrLObFaW2Qvb8L0Tab5gSdgz9MeAzFFJjA134/DjbApBQ7Z5ZoeaL9OM6o8W8wcajp9aARcVQKBlL63WoKxLnbSEtnd4evcfXUga1YUtBPwJrDQDAYBURja/ghE2u5CCw/T1/Oe4GmnyE+S0DYv6OT97h1uMtz8iC3L1NUs3ni1sc3G3iRSVXlsWSI7/aF0is6q0gWME/R8nA0G3UP6HOr6PafyAKDk1tu5LR9MnvlCHI4Xf9Ho+lAQS0/xHBhHA4cOpBJgVpClNrDLQ/DscNJvJoFGFfvA+Zhmmiph402bWs+dFx+fdWH1tkQfe0Bp9jZDjGZ5izxWyHBE8oQGFXCb1D4MKY6R6fwq5tBJg8CkqhMRNLsJGxWXjKt445FMw357f+s9lJusLOhbqHZfhRhh18ATdMaeGCaLp29vt+g6Lh/UJ+CXWikzbXwqMeg7rfx3s5LX/ip3m75zw3jsrRw+t9spdv74BtiXqost8M76lI/zP4iwyeXsm2tmVJ6pkmSTGRB8NZDh3P/suHDjbBC7NOwQaUQgdgkmBcFXd5chyEtZpL5y0sVnPGT3j4ndGOXHHZpC1U0Khib1EfdGsnlguxIGb/ziO3wuQ2DmUrGOGA2Qgzn6j98z34YSrUyYz4kl/xyBg/F1jST9/A8RcRb0xqsgM7ASwji7+S6BjofCym4rdMUsFhWqtqbOvNA6ZljsexAo2RKuy3hvF+wokVAcUbH/VIO6L+Pc7YenF4OVliq+fXDcZNwph+JlNdvTn22MU1hdvwnDqbJpgiQD1PUX69J+lGQoZrgIeTCi9pgL5sDYDPYeeqFgLh8dP0MzLP0ldHIv/cXlW0dGLsLVJ7KdLtPhOcITqPyvwJOnHNOIyaWp4SlwrHykG5iJ3umyI+1E/Q8mBaZLsbOn2RRJhFuLRNt8YEF7CRiGfBWE/S93iroipbgj5pxcUaaZSJKjdaw3zgA6LZj4siQhP/VbfTFHMot/xpTOiXCJQk8OZj7oTPUw8r4yEEO2/8YQzNBT3uCqLuS7egkeW1c33dGvGJDdJ234bctXptn/TtSoNZl/4eLBNkPvQ4biSBA1GX6NdqKfAB+Ilkqm/oeHNy5t3CWyVGQNV/L0mfibq5XtKpl3yzaSg6BCJ"
+}

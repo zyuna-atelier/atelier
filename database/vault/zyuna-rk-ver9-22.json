@@ -1,0 +1,15 @@
+{
+  "format": "atelier-vault/1",
+  "designId": "zyuna-rk-ver9-22",
+  "payloadFormat": "atelier-design/1",
+  "kdf": {
+    "algorithm": "PBKDF2-HMAC-SHA256",
+    "iterations": 600000,
+    "salt": "UJuoCV6SV2U3xPYeJBop9w=="
+  },
+  "cipher": {
+    "algorithm": "AES-256-GCM",
+    "iv": "Gzs6XBZ9rtf1Z6wc"
+  },
+  "ciphertext": "au5EJHQJkW5bWR+t9X4LKYWpf+L7ie2CKWx+9oENZQeYewKFO64kHIFe3oWou5yqwkLS3hd/T4m8MawYXAGNlD0dpEUhM/cHOWe0c2VR84sT/RZAjNZGc4XAGuiigDsUOY2MGCMBK9+gewYbVPDnzq4QO+Qsn8yr5/uARhewbLb7V705kUMPjH9j1hdxgL6x2CpmsJ0cr0n1O33X5wTJXyMb2moDXDHi4MdFNZFidKLYHmxr2fYhYvE2IcjfQ/0JzLfMJ765T1LOZTTmBIA6J6YHktWPzgeXyhmPNIvp5E91asE2jCckUDxrfOOs7uu6qFSQXMIVX2Aq66LuIXIQepnI9//yxt/dWqBuUXHWN3H1ei9M8AyZgDo6md85yVkeIIVjiPVvqSEhiVt+CI3Jmz+yrRfQwQWTIn0kHo2quzO14y2bBLO1yvFK8VZq5wMnGdKSkM1JUF5Kw11JUUXTFgBbc85iLaAknpqkzlxaltJza6RFr5E7eyoWaE9CTjt3EwmAMGimflr+y6K5fXFJO7i19OX3kArgcyNRtHfU94UQsXbzzxp+INqT4ywebMElP3BZ+A=="
+}
