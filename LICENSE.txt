@@ -1,0 +1,13 @@
+쥬나 아틀리에 이용 조건
+
+Copyright (c) 2026 쥬나 (@zyuna_zyuna)
+
+이 저장소의 웹 도구 배포 파일과 포함된 디자인 데이터는 MIT 같은 오픈소스 라이선스로
+배포되지 않습니다. 이용, 수정, 재배포 조건은 함께 포함된 USAGE.txt와 공식 사이트의
+'이용 범위'를 따르며, 이 파일에 적히지 않은 권리는 제작자에게 있습니다.
+
+- 이용 안내: USAGE.txt
+- 공식 사이트: https://atelier.zyuna.link/
+- 공식 배포처: https://github.com/zyuna-atelier/atelier
+
+포함된 외부 라이브러리와 웹 폰트는 THIRD_PARTY_NOTICES.txt에 적힌 각 라이선스를 따릅니다.
