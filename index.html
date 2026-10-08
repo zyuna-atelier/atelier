@@ -4,8 +4,21 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#171719" />
+  <!-- 저장된 화면 테마를 CSS보다 먼저 적용해 첫 화면이 깜빡이지 않게 합니다. 규칙은 /src/theme.js와 같습니다. -->
+  <script>
+    (function () {
+      // 기본은 다크입니다. 시스템 설정 따르기를 켠 경우에만 기기 설정을 봅니다.
+      var theme = 'dark';
+      try {
+        var saved = JSON.parse(localStorage.getItem('atelier.theme.v1') || 'null') || {};
+        if (saved.system === true) theme = window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        else if (saved.mode === 'light') theme = 'light';
+      } catch (error) {}
+      document.documentElement.setAttribute('data-theme', theme);
+      if (theme === 'light') document.querySelector('meta[name="theme-color"]').setAttribute('content', '#f6f3fa');
+    })();
+  </script>
   <meta name="description" content="TRPG 세션에 어울리는 롤꾸와 핸드아웃 디자인을 찾아보세요. 핸드아웃을 원하는 내용으로 편집하고, Roll20에 복사하거나 이미지로 저장할 수 있는 쥬나의 디자인 작업실입니다." />
-  <link rel="canonical" href="https://atelier.zyuna.link/" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="ko_KR" />
   <meta property="og:site_name" content="쥬나 아틀리에" />
@@ -29,8 +42,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" />
   <title>쥬나 아틀리에 | 롤꾸, 핸드아웃 템플릿 디자인 작업실</title>
   <style>.skip-link { position: fixed; top: -80px; left: 16px; z-index: 200; } .skip-link:focus { top: 16px; }</style>
-  <script type="module" crossorigin src="/assets/index-CUsaPnCC.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/index-C_uuTeHi.css">
+  <script type="module" crossorigin src="/assets/index-D2v_K8QS.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-BWVpPQup.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">본문으로 이동</a>
