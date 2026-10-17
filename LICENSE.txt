@@ -10,4 +10,4 @@ Copyright (c) 2026 쥬나 (@zyuna_zyuna)
 - 공식 사이트: https://atelier.zyuna.link/
 - 공식 배포처: https://github.com/zyuna-atelier/atelier
 
-포함된 외부 라이브러리와 웹 폰트는 THIRD_PARTY_NOTICES.txt에 적힌 각 라이선스를 따릅니다.
+포함된 외부 라이브러리, 변형해 쓴 UI 요소 코드, 웹 폰트는 THIRD_PARTY_NOTICES.txt에 적힌 각 라이선스를 따릅니다.
